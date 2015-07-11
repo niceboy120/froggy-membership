@@ -1,0 +1,12 @@
+{
+  "name": "froggyfrog-membership",
+  "description": "A membership module",
+  "dependecies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "mocha": "^2.2.5",
+    "should": "^7.0.2"
+  }
+}
