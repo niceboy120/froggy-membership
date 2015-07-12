@@ -1,8 +1,10 @@
 {
   "name": "froggyfrog-membership",
   "description": "A membership module",
+  "version":"0.0.1",
   "dependecies": {},
   "devDependencies": {
+    "express": "^4.13.1",
     "grunt": "*",
     "grunt-contrib-jshint": "*",
     "grunt-contrib-watch": "*",
